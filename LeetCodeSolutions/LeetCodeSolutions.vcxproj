@@ -123,7 +123,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="s_3318.cpp" />
     <ClCompile Include="LeetCodeSolutions.cpp" />
+    <ClCompile Include="S1526.cpp" />
+    <ClCompile Include="S2561_RearrangingFruits.cpp" />
+    <ClCompile Include="s54.cpp" />
+    <ClCompile Include="s_2257.cpp" />
+    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

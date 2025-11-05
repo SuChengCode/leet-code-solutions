@@ -18,5 +18,23 @@
     <ClCompile Include="LeetCodeSolutions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="S2561_RearrangingFruits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="S1526.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="s54.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="s_2257.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="s_3318.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
