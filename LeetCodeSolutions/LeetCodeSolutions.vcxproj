@@ -123,7 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="S289_GameOfLife.cpp" />
+    <ClCompile Include="S48_RotateImage.cpp" />
     <ClCompile Include="S49_GroupAnagrams.cpp" />
+    <ClCompile Include="S73_SetmatrixZeroes.cpp" />
     <ClCompile Include="s_3318.cpp" />
     <ClCompile Include="LeetCodeSolutions.cpp" />
     <ClCompile Include="S1526.cpp" />
