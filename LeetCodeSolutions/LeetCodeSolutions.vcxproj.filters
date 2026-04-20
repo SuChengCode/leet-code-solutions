@@ -48,5 +48,8 @@
     <ClCompile Include="S289_GameOfLife.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="S219_ContainsDuplicate2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

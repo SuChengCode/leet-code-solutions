@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="S219_ContainsDuplicate2.cpp" />
     <ClCompile Include="S289_GameOfLife.cpp" />
     <ClCompile Include="S48_RotateImage.cpp" />
     <ClCompile Include="S49_GroupAnagrams.cpp" />
